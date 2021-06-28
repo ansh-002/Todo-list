@@ -74,6 +74,15 @@ input{
 .fa-edit{
 	float:right;
 }
+#one{
+	width: 40px;
+	height: 40px;
+	padding: 0%;
+}
+#two{
+  width: 40px;
+  height: 40px;
+}
 #sp1{
 	float:right;
 }
